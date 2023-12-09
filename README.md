@@ -2,7 +2,7 @@
 ### I'm IT students, learn python and C++
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vladimir-semyonov&theme=algolia)
 <!--
 **vladimir-semyonov/vladimir-semyonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
