@@ -1,5 +1,5 @@
-# Hi there, I'm Daniil
-### Computer science student, IT news writer from Russia 🇷🇺
+# Hi there, I'm Vladimir
+# haoihifdhigh
 <!--
 **vladimir-semyonov/vladimir-semyonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
